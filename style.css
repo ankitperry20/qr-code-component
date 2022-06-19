@@ -1,0 +1,37 @@
+
+body {
+    background:hsl(212, 45%, 89%) ;
+    font-family: 'Outfit';
+    text-align: center;
+    margin: 0;
+    padding: 0%;
+}
+
+img {
+    max-width: 100%;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+#card {
+    width: 370px;
+    margin: 20vh auto;
+    background: hsl(0, 0%, 100%);
+    padding: 15px 15px 45px 15px;
+    border-radius: 20px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 30px;
+}
+
+.description {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+.attribution a {
+    text-decoration: none;
+}
